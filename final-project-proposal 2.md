@@ -158,8 +158,9 @@
 | ------------- |:-------------:| -----:|
 | Rule the crime risk| 5 | +1 add per condition and successful filt the data|
 | Improve the usage of the application | 5 | +2 For per improvement in main page or list page or information page <br> +1 for per improvement in visualization page|
-| Show each type of crime number in Chicago | 3 | +1 show the data correctlt<br> show the data as a list with crime type name and number<br> +1 show this part with a good design|
-| Manual Test | 10 | +4 Show the rank correctly in manual test plan <br> +3 Show the number for each crime correctly in the manual test plan <br>+3  Show other parts of the manual test plan in week 4|
+| Show each type of crime number in Chicago | 5 | +2 show the data correctlt<br> +2 show the data as a list with crime type name and number<br> +1 show this part with a good design|
+|Unit Test|4|+1 For per unit test for rule the crime risk|
+| Manual Test | 6 | +2 Show the rank correctly in manual test plan <br> +2 Show the number for each crime correctly in the manual test plan <br>+2  Show other parts of the manual test plan in week 4|
 * Link: https://docs.google.com/spreadsheets/d/1bZ3Mmm7rRnUJHMgQnLTADtMqyPs4f3WbzqktQllYnPk/edit#gid=0
   
 # Figures:
