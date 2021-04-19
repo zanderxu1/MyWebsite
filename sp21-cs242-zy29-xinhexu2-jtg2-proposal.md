@@ -92,11 +92,12 @@
 
 | Category | Total Score Allocated | Detailed Rubrics |
 | ------------- |:-------------:| -----:|
-| Add the filter buttons and drop list | 5 | +2 Add the filter section correctly in the list page <br> +2 Can list some options for users to choose as filter <br> +1 Finish the filter section with reasonable design and UI|
+|Improve the main page| 5 | +2 Add the crime count function in js file
+<br>+3 Custome markers to show the crime number for each block|
 | Implement the search and filter function in list page | 5 | +4 Can read and combine the filter requirements specified by user to filter the correct data <br> +1 Can update the page with filtered data|
 | Highlight the crimes with different style based on our risk rule | 5 | +4 Style the different crimes <br> +1 The result has a good UI design|
 | Unit Test | 3 | +1 for each test|
-| Manual Test | 7 | +4 show the screenshot of the correct highlight the crimes with high risk <br> +3 Show the screenshot of the filtered crime list in list page|
+| Manual Test | 7 |+2 show the screenshot of the correct highlight the crimes with high risk<br>+3 Show the screenshot of the filtered crime list in list page.<br> +2 Show screenshot of main page marker |
 * Link: https://docs.google.com/spreadsheets/d/1Wz6lUYK55j6o3Ukd18GF-2OVB0ndr-KemFi3JL-t-Pg/edit?usp=sharing
   
 * Week4:
