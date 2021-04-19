@@ -92,8 +92,7 @@
 
 | Category | Total Score Allocated | Detailed Rubrics |
 | ------------- |:-------------:| -----:|
-|Improve the main page| 5 | +2 Add the crime count function in js file
-<br>+3 Custome markers to show the crime number for each block|
+|Improve the main page| 5 | +2 Add the crime count function in js file<br>+3 Custome markers to show the crime number for each block|
 | Implement the search and filter function in list page | 5 | +4 Can read and combine the filter requirements specified by user to filter the correct data <br> +1 Can update the page with filtered data|
 | Highlight the crimes with different style based on our risk rule | 5 | +4 Style the different crimes <br> +1 The result has a good UI design|
 | Unit Test | 3 | +1 for each test|
