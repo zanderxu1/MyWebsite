@@ -103,7 +103,7 @@
 
 | Category | Total Score Allocated | Detailed Rubrics |
 | ------------- |:-------------:| -----:|
-| Improve and fix the bugs for former weeks | 5 | -1 for each bug found in list and info page <br> +5 both pages can be interacted smoothly and run without error |
+| Change the way to show risk_level using stars | 5 | +3 change in list page <br> +2 change in info page|
 | Implement the risk rank for areas | 5 | +3 Show the rank correctly <br> +2 The graph has a good design|
 | Implement the visualization page | 5 | +4 Show each section correctly <br> +1 Organize different parts in a good design|
 | Manual Test | 10 | +5 Show the rank correctly in manual test plan <br> +5 Show the visualization page can work correctly|
@@ -151,10 +151,11 @@
 
 | Category | Total Score Allocated | Detailed Rubrics |
 | ------------- |:-------------:| -----:|
-| Set the navigation between the specific crime data to it's information page | 5 | +3 Set the navigation<br>+2 Navigation works for each data|
-| Improve the usage of the application | 5 | +2 For per improvement in main page or list page or information page <br> +1 for per improvement in visualization page|
-| Show each type of crime number in Chicago | 5 | +2 show the data correctlt<br> +2 show the data as a list with crime type name and number<br> +1 show this part with a good design|
-| Manual Test | 10 | +3 Show the rank correctly in manual test plan <br> +2 Show the number for each crime correctly in the manual test plan<br>+3 test for the navigation <br>+2  Show other parts of the manual test plan in week 4|
+| Improve the rule of risk level| 5 | +3 Change the hardcode date to use the library like date() and so on<br>+2 per new rule|
+| Improve the application | 5 | +2 For per improvement in main page or list page or information page <br> +1 for per improvement in layout（style/position)|
+| Show the number of each type of crime in VIS page | 5 | +2 show the data correctly<br> +2 show the data as a table with crime type name and number<br> +1 show this part with a good design|
+|Unit Test| +6 |per unit test for rule of risk_level + 1|
+| Manual Test plan| 4 |+2 Manual test the improvement of the application <br> +2 show the number for each crime correctly and the table in the manual test plan|
 * Link: https://docs.google.com/spreadsheets/d/1bZ3Mmm7rRnUJHMgQnLTADtMqyPs4f3WbzqktQllYnPk/edit#gid=0
   
 # Figures:
